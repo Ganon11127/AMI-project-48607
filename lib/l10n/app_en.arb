@@ -1,0 +1,163 @@
+{
+  "@@locale": "en",
+  "appTitle": "Yu‑Gi‑Oh App",
+  "homeTitle": "Home",
+  "overview": "Deck Prices Overview",
+  "favouritedDecks": "Favourited Decks",
+  "bookmarkedCards": "Bookmarked Cards",
+  "wishlistedCards": "Wishlisted Cards",
+  "wishlistedDecks": "Wishlisted Decks",
+  "settingsTitle": "Options",
+  "bottomNavCatalog": "Catalog",
+  "bottomNavDeck": "Deck",
+  "bottomNavHome": "Home",
+  "bottomNavTranslation": "Translation",
+  "bottomNavBattle": "Battle",
+  "translationTitle": "Translate",
+  "translationHint": "Point camera at text",
+  "findCardButton": "Find Card",
+  "languageOptions": "Language Options",
+  "langEnglish": "English",
+  "langPortuguese": "Portuguese",
+  "langFrench": "French",
+  "langGerman": "German",
+  "langItalian": "Italian",
+  "languagePrefix": "Language: ",
+  "appLanguage": "App Language",
+  "cardTranslation": "Card Translation",
+  "darkMode": "Dark Mode",
+  "marketOptions": "Market Options",
+  "markets": "Markets",
+  "currency": "Currency",
+  "eur": "Euro",
+  "usd": "Dollar",
+  "noCardFound": "No card found for: {text}",
+  "@noCardFound": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "errorOccurred": "An error occurred: {text}",
+  "@errorOccurred": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardArchetype": "Archetype: {text}",
+  "@cardArchetype": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardAttribute": "Attribute: {text}",
+  "@cardAttribute": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardType": "Type: {text}",
+  "@cardType": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "pendulumEffectLabel": "Pendulum Effect",
+  "monsterEffectLabel": "Monster Effect",
+  "searching": "Searching…",
+  "marketCardmarket": "Cardmarket",
+  "marketTcgplayer": "TCGPlayer",
+  "marketCoolstuffinc": "CoolStuffInc",
+  "marketEbay": "Ebay",
+  "marketAmazon": "Amazon",
+  "battlePlayer": "Player",
+  "battleHelpTitle": "Battle Controls",
+  "battleHelpReset": "Reset LP to 8000",
+  "battleHelpRotate": "Rotate screen 90°",
+  "battleHelpSettings": "Open Settings",
+  "battleHelpToggleNav": "Show/hide bottom nav",
+  "battleHelpTranslate": "Go to Translation",
+  "battleHelpClose": "Close",
+  "battleCalculatorTitle": "Set Life Points",
+  "battleCalculatorHint": "Enter LP value",
+  "battleCalculatorSet": "Set",
+  "battleHelpSensor": "Shake the phone to roll dice. Mimic a coin toss motion for coin flip.",
+  "cancel": "Cancel",
+  "resetConfirmTitle": "Reset Life Points",
+  "resetConfirmContent": "Are you sure you want to reset both player's LP to 8000?",
+  "resetConfirmReset": "Reset",
+  "resultTitle": "Result",
+  "dicePrefix": "Dice",
+  "coinHeads": "Heads",
+  "coinTails": "Tails",
+
+  "deleteDeckTitle": "Delete Deck",
+  "deleteDeckContent": "Are you sure you want to delete this deck? This action cannot be undone.",
+  "delete": "Delete",
+  "deckListTitle": "Decks",
+  "searchDecks": "Search decks…",
+  "noDecksFound": "No decks found",
+  "mainDeck": "Main Deck",
+  "extraDeck": "Extra Deck",
+  "empty": "Empty",
+  "unknownCard": "Unknown Card",
+  "deckProfileTitle": "Deck Profile",
+  "deckName": "Deck Name",
+  "colorHex": "Color Hex",
+  "mainDeckWarning": "Main deck must have at least 40 cards",
+  "addToMain": "Main Deck",
+  "addToExtra": "Extra Deck",
+  "save": "Save",
+  "editNameTitle": "Edit Deck Name",
+  "editColorTitle": "Edit Deck Color",
+  "enterNewName": "Enter new name",
+  "enterHexHint": "Enter hex (e.g. #1a73e8)",
+  "favouriteShort": "Fav",
+  "wishlistShort": "Wish",
+  "rename": "Rename",
+  "color": "Color",
+  "searchHintCatalog": "Search...",
+  "sortName": "Name",
+  "sortLevel": "Level",
+  "sortRank": "Rank",
+  "sortLink": "Link",
+  "sortScale": "Scale",
+  "sortAtk": "ATK",
+  "sortDef": "DEF",
+  "filterAll": "All",
+  "filterMonster": "Monster",
+  "filterSpell": "Spell",
+  "filterTrap": "Trap",
+  "filterExtra": "Extra",
+  "advancedFiltersTitle": "Advanced Filters",
+  "close": "Close",
+
+  
+  "noCardsFound": "No cards match the filters",
+  "clearAll": "Clear All",
+  "apply": "Apply",
+
+  "databaseUpdate": "Database Update",
+  "databaseVersion": "database_version:",
+  "lastUpdate": "last_update:",
+  "checkForUpdates": "Check for Updates",
+  "checkingForUpdates": "Checking for updates...",
+  "dbUpdated": "Database updated successfully!",
+  "dbAlreadyUpToDate": "Database is already up to date.",
+  "dbUpdateError": "Update failed:",
+  
+  "maxCopiesReached": "You already have 3 copies of this card",
+
+  "bookmarkShort": "Bkm",
+  "viewCard": "View",
+  "noItemsYet": "No items yet. Start building you collection!"
+}

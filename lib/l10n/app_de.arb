@@ -1,0 +1,163 @@
+{
+  "@@locale": "de",
+  "appTitle": "Yu‑Gi‑Oh App",
+  "homeTitle": "Startseite",
+  "overview": "Übersicht der Deckpreise",
+  "favouritedDecks": "Favorisierte Decks",
+  "bookmarkedCards": "Lesezeichen‑Karten",
+  "wishlistedCards": "Wunschlisten‑Karten",
+  "wishlistedDecks": "Wunschlisten‑Decks",
+  "settingsTitle": "Optionen",
+  "bottomNavCatalog": "Katalog",
+  "bottomNavDeck": "Deck",
+  "bottomNavHome": "Startseite",
+  "bottomNavTranslation": "Übersetzung",
+  "bottomNavBattle": "Kampf",
+  "translationTitle": "Übersetzen",
+  "translationHint": "Kamera auf Text richten",
+  "findCardButton": "Karte finden",
+  "languageOptions": "Sprachoptionen",
+  "langEnglish": "Englisch",
+  "langPortuguese": "Portugiesisch",
+  "langFrench": "Französisch",
+  "langGerman": "Deutsch",
+  "langItalian": "Italienisch",
+  "languagePrefix": "Sprache: ",
+  "appLanguage": "App‑Sprache",
+  "cardTranslation": "Kartenübersetzung",
+  "darkMode": "Dunkelmodus",
+  "marketOptions": "Marktoptionen",
+  "markets": "Märkte",
+  "currency": "Währung",
+  "eur": "Euro",
+  "usd": "Dollar",
+  "noCardFound": "Keine Karte gefunden für: {text}",
+  "@noCardFound": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "errorOccurred": "Ein Fehler ist aufgetreten: {text}",
+  "@errorOccurred": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardArchetype": "Archetyp: {text}",
+  "@cardArchetype": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardAttribute": "Attribut: {text}",
+  "@cardAttribute": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardType": "Typ: {text}",
+  "@cardType": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "pendulumEffectLabel": "Penduleffekt",
+  "monsterEffectLabel": "Monstereffekt",
+  "searching": "Suche…",
+  "marketCardmarket": "Cardmarket",
+  "marketTcgplayer": "TCGPlayer",
+  "marketCoolstuffinc": "CoolStuffInc",
+  "marketEbay": "Ebay",
+  "marketAmazon": "Amazon",
+  "battlePlayer": "Spieler",
+  "battleHelpTitle": "Kampfsteuerung",
+  "battleHelpReset": "LP auf 8000 zurücksetzen",
+  "battleHelpRotate": "Bildschirm um 90° drehen",
+  "battleHelpSettings": "Einstellungen öffnen",
+  "battleHelpToggleNav": "Untere Navigation ein‑/ausblenden",
+  "battleHelpTranslate": "Zur Übersetzung",
+  "battleHelpClose": "Schließen",
+  "battleCalculatorTitle": "Lebenspunkte festlegen",
+  "battleCalculatorHint": "LP‑Wert eingeben",
+  "battleCalculatorSet": "Festlegen",
+  "battleHelpSensor": "Schütteln Sie das Telefon, um zu würfeln. Imitieren Sie eine Münzbewegung für den Münzwurf.",
+  "cancel": "Abbrechen",
+  "resetConfirmTitle": "Lebenspunkte zurücksetzen",
+  "resetConfirmContent": "Möchten Sie die LP beider Spieler wirklich auf 8000 zurücksetzen?",
+  "resetConfirmReset": "Zurücksetzen",
+  "resultTitle": "Ergebnis",
+  "dicePrefix": "Würfel",
+  "coinHeads": "Kopf",
+  "coinTails": "Zahl",
+
+  "deleteDeckTitle": "Deck löschen",
+  "deleteDeckContent": "Möchten Sie dieses Deck wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+  "delete": "Löschen",
+  "deckListTitle": "Decks",
+  "searchDecks": "Decks durchsuchen…",
+  "noDecksFound": "Keine Decks gefunden",
+  "mainDeck": "Hauptdeck",
+  "extraDeck": "Extra‑Deck",
+  "empty": "Leer",
+  "unknownCard": "Unbekannte Karte",
+  "deckProfileTitle": "Deckprofil",
+  "deckName": "Deckname",
+  "colorHex": "Hex‑Farbe",
+  "mainDeckWarning": "Das Hauptdeck muss mindestens 40 Karten enthalten",
+  "addToMain": "Hauptdeck",
+  "addToExtra": "Extra‑Deck",
+  "save": "Speichern",
+  "editNameTitle": "Decknamen bearbeiten",
+  "editColorTitle": "Deckfarbe bearbeiten",
+  "enterNewName": "Neuen Namen eingeben",
+  "enterHexHint": "Hex eingeben (z.B. #1a73e8)",
+  "favouriteShort": "Fav",
+  "wishlistShort": "Wish",
+  "rename": "Umbenennen",
+  "color": "Farbe",
+  "searchHintCatalog": "Suchen...",
+  "sortName": "Name",
+  "sortLevel": "Stufe",
+  "sortRank": "Rang",
+  "sortLink": "Link",
+  "sortScale": "Skala",
+  "sortAtk": "ATK",
+  "sortDef": "DEF",
+  "filterAll": "Alle",
+  "filterMonster": "Monster",
+  "filterSpell": "Zauber",
+  "filterTrap": "Falle",
+  "filterExtra": "Extra",
+  "advancedFiltersTitle": "Erweiterte Filter",
+  "close": "Schließen",
+  
+  "noCardsFound": "Keine Karten entsprechen den Filtern",
+  "clearAll": "Alles löschen",
+  "apply": "Anwenden",
+  "databaseUpdate": "Datenbank-Update",
+  "databaseVersion": "Datenbankversion:",
+  "lastUpdate": "letzte_Aktualisierung:",
+  "checkForUpdates": "Auf Updates prüfen",
+  "checkingForUpdates": "Suche nach Updates...",
+  "dbUpdated": "Datenbank erfolgreich aktualisiert!",
+  "dbAlreadyUpToDate": "Datenbank ist bereits auf dem neuesten Stand.",
+  "dbUpdateError": "Update fehlgeschlagen:",
+  
+  "maxCopiesReached": "Sie haben bereits 3 Kopien dieser Karte",
+  
+  "bookmarkShort": "Lese",
+  "viewCard": "Anzeigen",
+  "noItemsYet": "Noch keine Elemente. Beginne mit dem Aufbau deiner Sammlung!"
+}
+
+  

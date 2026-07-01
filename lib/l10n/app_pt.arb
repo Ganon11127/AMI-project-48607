@@ -1,0 +1,161 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Yu‑Gi‑Oh App",
+  "homeTitle": "Início",
+  "overview": "Visão Geral dos Preços dos Decks",
+  "favouritedDecks": "Decks Favoritos",
+  "bookmarkedCards": "Cartas Favoritas",
+  "wishlistedCards": "Cartas na Lista de Desejos",
+  "wishlistedDecks": "Decks na Lista de Desejos",
+  "settingsTitle": "Opções",
+  "bottomNavCatalog": "Catálogo",
+  "bottomNavDeck": "Deck",
+  "bottomNavHome": "Início",
+  "bottomNavTranslation": "Tradução",
+  "bottomNavBattle": "Batalha",
+  "translationTitle": "Traduzir",
+  "translationHint": "Aponte a câmara para o texto",
+  "findCardButton": "Encontrar Carta",
+  "languageOptions": "Opções de Idioma",
+  "langEnglish": "Inglês",
+  "langPortuguese": "Português",
+  "langFrench": "Francês",
+  "langGerman": "Alemão",
+  "langItalian": "Italiano",
+  "languagePrefix": "Idioma: ",
+  "appLanguage": "Idioma da App",
+  "cardTranslation": "Tradução de Cartas",
+  "darkMode": "Modo Escuro",
+  "marketOptions": "Opções de Mercado",
+  "markets": "Mercados",
+  "currency": "Moeda",
+  "eur": "Euro",
+  "usd": "Dólar",
+  "noCardFound": "Nenhuma carta encontrada para: {text}",
+  "@noCardFound": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "errorOccurred": "Ocorreu um erro: {text}",
+  "@errorOccurred": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardArchetype": "Arquétipo: {text}",
+  "@cardArchetype": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardAttribute": "Atributo: {text}",
+  "@cardAttribute": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "cardType": "Tipo: {text}",
+  "@cardType": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "pendulumEffectLabel": "Efeito de Pêndulo",
+  "monsterEffectLabel": "Efeito de Monstro",
+  "searching": "A pesquisar…",
+  "marketCardmarket": "Cardmarket",
+  "marketTcgplayer": "TCGPlayer",
+  "marketCoolstuffinc": "CoolStuffInc",
+  "marketEbay": "Ebay",
+  "marketAmazon": "Amazon",
+  "battlePlayer": "Jogador",
+  "battleHelpTitle": "Controlos de Batalha",
+  "battleHelpReset": "Repor LP para 8000",
+  "battleHelpRotate": "Rodar ecrã 90°",
+  "battleHelpSettings": "Abrir Definições",
+  "battleHelpToggleNav": "Mostrar/ocultar navegação inferior",
+  "battleHelpTranslate": "Ir para Tradução",
+  "battleHelpClose": "Fechar",
+  "battleCalculatorTitle": "Definir Pontos de Vida",
+  "battleCalculatorHint": "Introduza o valor de LP",
+  "battleCalculatorSet": "Definir",
+  "battleHelpSensor": "Agite o telemóvel para lançar dados. Imite o movimento de uma moeda para o lançamento da moeda.",
+  "cancel": "Cancelar",
+  "resetConfirmTitle": "Repor Pontos de Vida",
+  "resetConfirmContent": "Tem a certeza que pretende repor os LP de ambos os jogadores para 8000?",
+  "resetConfirmReset": "Repor",
+  "resultTitle": "Resultado",
+  "dicePrefix": "Dados",
+  "coinHeads": "Cara",
+  "coinTails": "Coroa",
+
+  "deleteDeckTitle": "Eliminar Deck",
+  "deleteDeckContent": "Tem a certeza que pretende eliminar este deck? Esta ação não pode ser desfeita.",
+  "delete": "Eliminar",
+  "deckListTitle": "Decks",
+  "searchDecks": "Pesquisar decks…",
+  "noDecksFound": "Nenhum deck encontrado",
+  "mainDeck": "Deck Principal",
+  "extraDeck": "Deck Extra",
+  "empty": "Vazio",
+  "unknownCard": "Carta Desconhecida",
+  "deckProfileTitle": "Perfil do Deck",
+  "deckName": "Nome do Deck",
+  "colorHex": "Cor Hex",
+  "mainDeckWarning": "O deck principal deve ter pelo menos 40 cartas",
+  "addToMain": "Deck Principal",
+  "addToExtra": "Deck Extra",
+  "save": "Salvar",
+  "editNameTitle": "Editar Nome do Deck",
+  "editColorTitle": "Editar Cor do Deck",
+  "enterNewName": "Insira novo nome",
+  "enterHexHint": "Insira hex (ex: #1a73e8)",
+  "favouriteShort": "Fav",
+  "wishlistShort": "Wish",
+  "rename": "Renomear",
+  "color": "Cor",
+  "searchHintCatalog": "Pesquisar...",
+  "sortName": "Nome",
+  "sortLevel": "Nível",
+  "sortRank": "Rank",
+  "sortLink": "Link",
+  "sortScale": "Escala",
+  "sortAtk": "ATK",
+  "sortDef": "DEF",
+  "filterAll": "Todos",
+  "filterMonster": "Monstro",
+  "filterSpell": "Magia",
+  "filterTrap": "Armadilha",
+  "filterExtra": "Extra",
+  "advancedFiltersTitle": "Filtros Avançados",
+  "close": "Fechar",
+
+  "noCardsFound": "Nenhuma carta corresponde aos filtros",
+  "clearAll": "Limpar Tudo",
+  "apply": "Aplicar",
+  "databaseUpdate": "Atualização da Base de Dados",
+  "databaseVersion": "versão_base_dados:",
+  "lastUpdate": "última_atualização:",
+  "checkForUpdates": "Verificar Atualizações",
+  "checkingForUpdates": "A verificar atualizações...",
+  "dbUpdated": "Base de dados atualizada com sucesso!",
+  "dbAlreadyUpToDate": "A base de dados já está atualizada.",
+  "dbUpdateError": "Falha na atualização:",
+
+  "maxCopiesReached": "Você já tem 3 cópias deste card",
+
+  "bookmarkShort": "Marc",
+  "viewCard": "Ver",
+  "noItemsYet": "Ainda sem itens. Comece a construir a sua coleção!"
+}
