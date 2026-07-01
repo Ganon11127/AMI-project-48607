@@ -8,8 +8,10 @@ O objetivo é ajudar na gestão de partidas, oferecer suporte para traduções e
 
 A aplicação tem três partes principais:
 
-• Gestão da partida (dentro do jogo);
+- Gestão da partida (dentro do jogo);
 
-• Construção de decks (fora do jogo);
 
-• Tradução de cartas com a câmara (dentro ou fora do jogo).
+- Construção de decks (fora do jogo);
+
+
+- Tradução de cartas com a câmara (dentro ou fora do jogo).
