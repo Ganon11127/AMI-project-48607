@@ -1,17 +1,9 @@
 # yu_gi_oh_app
 
-A new Flutter project.
+Projeto para a cadeira de AMI, Interactive Multimedia Applications, onde o objetivo era criar uma aplicação.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A aplicação Yugioh-helper é um assistente digital para jogadores do jogo de cartas Yu-Gi-Oh. O objetivo é ajudar na gestão de partidas, oferecer suporte para traduções e construção de decks.
+A aplicação tem três partes principais:
+• Gestão da partida (dentro do jogo);
+• Construção de decks (fora do jogo);
+• Tradução de cartas com a câmara (dentro ou fora do jogo).
